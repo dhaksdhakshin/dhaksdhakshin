@@ -10,7 +10,6 @@
 
 <div align="center">
 
-📌 Dhakshin | Android Developer & AI Engineer
 👋 Hey there! I’m Dhakshin, an Android Developer, AI Engineer, and Full-Stack Developer with a passion for building innovative and intelligent applications. From custom AOSP development to AI-powered solutions, I thrive on creating scalable, efficient, and user-friendly software.
 
 🚀 About Me
