@@ -10,26 +10,27 @@
 
 <div align="center">
 
-👋 Hey there! I’m Dhakshin, an Android Developer, AI Engineer, and Full-Stack Developer with a passion for building innovative and intelligent applications. From custom AOSP development to AI-powered solutions, I thrive on creating scalable, efficient, and user-friendly software.
+👋 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! I’m Dhakshin, an 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘈𝘐 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳, 𝘢𝘯𝘥 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 with a passion for building 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘷𝘦 and 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘵 applications. From 𝐜𝐮𝐬𝐭𝐨𝐦 𝐀𝐎𝐒𝐏 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 to 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬, I thrive on creating 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦, 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵, and 𝘶𝘴𝘦𝘳-𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 software.
 
-🚀 About Me
-🔹 Android Developer – Deep expertise in AOSP, Java, and app development
-🔹 AI & Data Science Enthusiast – Integrating AI into real-world applications
-🔹 Full-Stack Developer – Skilled in Node.js, TypeScript, and backend systems
-🔹 Open Source Contributor – Love collaborating on exciting projects
+🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+🔹 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 – Deep expertise in 𝗔𝗢𝗦𝗣, 𝗝𝗮𝘃𝗮, 𝗮𝗻𝗱 𝗮𝗽𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+🔹 𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 – Integrating 𝗔𝗜 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+🔹 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 – Skilled in 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+🔹 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 – Love collaborating on 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-🛠 Tech Stack & Skills
-📱 Android Development: AOSP, Java, Kotlin, Jetpack Compose
-🤖 AI & Data Science: GPT, Gemini Pro, Hugging Face, OpenAI, TensorFlow
-🌐 Full-Stack Development: Node.js, TypeScript, React.js, Express.js
-📦 Database & Cloud: Firebase, MongoDB, PostgreSQL, Google Cloud Platform
-🛠 Tools & DevOps: Docker, Git, CI/CD, REST APIs, WebSockets
+🛠 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 & 𝗦𝗸𝗶𝗹𝗹𝘀
+📱 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: 𝗔𝗢𝗦𝗣, 𝗝𝗮𝘃𝗮, 𝗞𝗼𝘁𝗹𝗶𝗻, 𝗝𝗲𝘁𝗽𝗮𝗰𝗸 𝗖𝗼𝗺𝗽𝗼𝘀𝗲
+🤖 𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: 𝗚𝗣𝗧, 𝗚𝗲𝗺𝗶𝗻𝗶 𝗣𝗿𝗼, 𝗛𝘂𝗴𝗴𝗶𝗻𝗴 𝗙𝗮𝗰𝗲, 𝗢𝗽𝗲𝗻𝗔𝗜, 𝗧𝗲𝗻𝘀𝗼𝗿𝗙𝗹𝗼𝘄
+🌐 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯: 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀
+📦 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 & 𝐂𝐥𝐨𝐮𝐝: 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗹𝗼𝘂𝗱
+🛠 𝐓𝐨𝐨𝐥𝐬 & 𝐃𝐞𝐯𝐎𝐩𝐬: 𝗗𝗼𝗰𝗸𝗲𝗿, 𝗚𝗶𝘁, 𝗖𝗜/𝗖𝗗, 𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝘀, 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁𝘀
 
-🔥 Featured Projects
+🔥 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 🔹 InsightSense AI – Advanced AI research assistant for analyzing diverse data formats
 🔹 9/11 Billing System – Smart and efficient billing system for businesses
 🔹 Voice to Text – A powerful speech-to-text converter for accessibility and productivity
 🔹 AI-Powered Telegram Bot – Integrated GPT-3.5 & Gemini for enhanced chatbot interactions
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
