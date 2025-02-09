@@ -32,15 +32,6 @@
 🔹 Voice to Text – A powerful speech-to-text converter for accessibility and productivity
 🔹 AI-Powered Telegram Bot – Integrated GPT-3.5 & Gemini for enhanced chatbot interactions
 
-📫 Let’s Connect!
-💼 LinkedIn: Your LinkedIn
-📧 Email: Your Email
-🌎 Website/Portfolio: Your Portfolio
-
-⭐ Feel free to explore my repos, fork them, and collaborate! 🚀
-
-This README presents you as a skilled Android developer & AI engineer while keeping it engaging and professional. Let me know if you want any modifications! 😊
-
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <br><br>
