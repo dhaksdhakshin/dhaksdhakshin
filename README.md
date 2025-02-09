@@ -10,6 +10,36 @@
 
 <div align="center">
 
+📌 Dhakshin | Android Developer & AI Engineer
+👋 Hey there! I’m Dhakshin, an Android Developer, AI Engineer, and Full-Stack Developer with a passion for building innovative and intelligent applications. From custom AOSP development to AI-powered solutions, I thrive on creating scalable, efficient, and user-friendly software.
+
+🚀 About Me
+🔹 Android Developer – Deep expertise in AOSP, Java, and app development
+🔹 AI & Data Science Enthusiast – Integrating AI into real-world applications
+🔹 Full-Stack Developer – Skilled in Node.js, TypeScript, and backend systems
+🔹 Open Source Contributor – Love collaborating on exciting projects
+
+🛠 Tech Stack & Skills
+📱 Android Development: AOSP, Java, Kotlin, Jetpack Compose
+🤖 AI & Data Science: GPT, Gemini Pro, Hugging Face, OpenAI, TensorFlow
+🌐 Full-Stack Development: Node.js, TypeScript, React.js, Express.js
+📦 Database & Cloud: Firebase, MongoDB, PostgreSQL, Google Cloud Platform
+🛠 Tools & DevOps: Docker, Git, CI/CD, REST APIs, WebSockets
+
+🔥 Featured Projects
+🔹 InsightSense AI – Advanced AI research assistant for analyzing diverse data formats
+🔹 9/11 Billing System – Smart and efficient billing system for businesses
+🔹 Voice to Text – A powerful speech-to-text converter for accessibility and productivity
+🔹 AI-Powered Telegram Bot – Integrated GPT-3.5 & Gemini for enhanced chatbot interactions
+
+📫 Let’s Connect!
+💼 LinkedIn: Your LinkedIn
+📧 Email: Your Email
+🌎 Website/Portfolio: Your Portfolio
+
+⭐ Feel free to explore my repos, fork them, and collaborate! 🚀
+
+This README presents you as a skilled Android developer & AI engineer while keeping it engaging and professional. Let me know if you want any modifications! 😊
 
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
