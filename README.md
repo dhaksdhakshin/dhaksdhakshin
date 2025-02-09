@@ -83,3 +83,33 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br>    
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
+
+> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
+
+<br>
+
+<div align="center">
+  <a href="https://app.daily.dev/dhakslol"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
+  <br>
+  <a href="https://www.polywork.com/dhakslol"><img src="https://img.shields.io/badge/polywork-0A0209?style=for-the-badge&logo=polywork&logoColor=d5d5d5" ></a>
+  <a href="https://peerlist.io/dhakslol"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
+  <br>
+  <a href="https://www.producthunt.com/@dhaks_"><img src="https://img.shields.io/badge/Product%20Hunt-d5d5d5?style=for-the-badge&logo=Product%20Hunt&logoColor=0A0209" /></a>
+  <a href="https://devpost.com/dhaksdhakshin46891"><img src="https://img.shields.io/badge/Devpost-d5d5d5?style=for-the-badge&logo=Devpost&logoColor=0A0209" /></a> 
+  <a href="https://www.showwcase.com/dhakslol"><img src="https://img.shields.io/badge/showwcase-d5d5d5?style=for-the-badge&logo=showwcase&logoColor=0A0209" ></a>
+  <br>
+  <a href="https://leetcode.com/dhaksdhakshin/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/dhaksdhaks2pzh"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
+  <a href="https://www.coursera.org/user/b9081a5d0a207d462be3138454c95f69"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
+  <a href="https://www.codecademy.com/profiles/@array2295103363"><img src="https://img.shields.io/badge/Codecademy-0A0209?style=for-the-badge&logo=codecademy&logoColor=d5d5d5" /></a> 
+  <br> 
+  <a href="https://dev.to/dhaks__18c51cc213132f"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/dhakshin-v/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:hi@dhaksdhakshin46891.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/77674963782611764"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
+  <a href="https://dribbble.com/dhakslol/"><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
+  <a href="https://twitter.com/dhaksg"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
+  
+</div>
