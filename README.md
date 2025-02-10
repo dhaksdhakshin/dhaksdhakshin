@@ -24,7 +24,7 @@
 🔹 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 – Love collaborating on 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 
-|<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
 
 🛠 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 & 𝗦𝗸𝗶𝗹𝗹𝘀
