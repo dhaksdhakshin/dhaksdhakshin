@@ -54,42 +54,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
 <br><br>
 
-# My GitHub Metrics
-
-<details>
-  <summary>Expand</summary> 
-
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-
-</details>                     
-<br>
-<hr>
-# My GitHub Metrics
-
-<details>
-  <summary>Expand</summary> 
-
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-
-</details>                     
-<br>
-<hr>
 
 
 
