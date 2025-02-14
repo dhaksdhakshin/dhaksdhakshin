@@ -10,7 +10,7 @@
 
 <div align="center">
 
-👋 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! I’m Dhakshin, an 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘈𝘐 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳, 𝘢𝘯𝘥 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 with a passion for building 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘷𝘦 and 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘵 applications. From 𝐜𝐮𝐬𝐭𝐨𝐦 𝐀𝐎𝐒𝐏 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 to 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬, I thrive on creating 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦, 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵, and 𝘶𝘴𝘦𝘳-𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 software.
+👋 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! I’m Dhakshin, an 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘈𝘐 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳, 𝘢𝘯𝘥 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 with a passion for building 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘷𝘦 and 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘵 applications. From 𝐜𝐮𝐬𝐭𝐨𝐦 𝐀𝐎𝐒𝐏 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 to 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬, I thrive on creating 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦, 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵, and 𝘶𝘴𝘦𝘳-𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 software...
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
