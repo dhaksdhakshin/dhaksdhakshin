@@ -10,7 +10,8 @@
 
 <div align="center">
 
-Product engineer. I build full-stack and AI-powered apps that ship. Open-source contributor.
+👋 Hey there! I'm Dhakshin, a software developer working across Android, AI, and full-stack. I like building things that are simple, fast, and actually useful — and I contribute to open source whenever I can.
+
 
 
 
